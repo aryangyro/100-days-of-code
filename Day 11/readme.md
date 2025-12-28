@@ -1,12 +1,15 @@
-## Day 11 – Blackjack Game
+# 100 Days of Code – Python
 
-Built a Blackjack game to practice:
-- control flow
-- while loops
-- conditional logic
-- game state management
+This repository documents my progress through the **100 Days of Code (Python)** challenge.
 
-Key concepts:
-- tracking scores
-- stopping conditions
-- decision branching
+I am building small projects every day to improve my problem-solving skills, write cleaner code, and get more comfortable with Python fundamentals.
+
+Each folder represents one day of the challenge and contains:
+- The project code
+- A short README explaining what I built
+- Key concepts I practiced that day
+
+## Progress So Far
+- Day 11 – Blackjack game (console-based)
+
+I’ll continue adding projects as I move forward in the challenge.
