@@ -1,0 +1,1 @@
+Built a modular Snake game using Python’s Turtle module with smooth movement, keyboard controls, and clean class-based design. Focused on proper game loop separation, snake body following logic, and direction control.
