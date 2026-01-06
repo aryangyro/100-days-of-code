@@ -1,0 +1,5 @@
+This project automates the process of generating personalized letters using Python, closely simulating a real-world mail merge system. The program reads a list of recipient names from a text file and a predefined letter template containing placeholders. For each recipient, the script dynamically replaces the placeholder with the individual’s name and creates a customized output letter saved to a separate file.
+
+The project demonstrates practical usage of Python file handling, including reading from and writing to external files, along with string manipulation techniques such as stripping whitespace and performing targeted replacements. It also reinforces clean looping logic to ensure each output file is generated exactly once per recipient without redundancy.
+
+By structuring the code for clarity and efficiency, this project highlights automation of repetitive tasks, attention to detail in file system operations, and foundational programming concepts that are directly applicable to backend development, scripting, and real-world data processing workflows
