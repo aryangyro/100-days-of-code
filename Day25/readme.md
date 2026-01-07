@@ -1,0 +1,5 @@
+This project focuses on analyzing real-world wildlife data using Python and the Pandas library. The dataset used is the 2018 Central Park Squirrel Census, which contains detailed observations about squirrel characteristics recorded across Central Park. The script reads the CSV dataset, filters the data based on the primary fur color of squirrels, and accurately counts occurrences of each color category such as Gray, Black, and Cinnamon.
+
+The project demonstrates practical data analysis skills including reading CSV files, understanding dataset structure, filtering rows based on column values, and using efficient Pandas operations like value_counts() for aggregation. The results are then organized into a clean summary format and exported as a new CSV file, making the data reusable for reporting or visualization.
+
+This project builds a strong foundation in data handling, logical thinking, and basic data analytics workflows, all of which are essential skills for roles involving data analysis, backend processing, and automation using Python.
