@@ -1,0 +1,9 @@
+Developed a fully functional Pomodoro Timer desktop application using Python and the Tkinter GUI framework, focusing on correct event-driven programming and reliable state management. The application follows the standard Pomodoro technique by automatically alternating between focused work sessions, short breaks, and long breaks after every five completed work cycles, without requiring repeated user interaction.
+
+The timer logic is implemented using Tkinter’s after() method to ensure a smooth, non-blocking countdown experience. Time is displayed in a clean MM:SS format and updates accurately every second. Session transitions are handled programmatically using a repetition counter, allowing the application to determine whether the current phase is a work session, short break, or long break.
+
+To track productivity, the application visually displays checkmarks after each completed work session, reinforcing progress without counting breaks. A near-completion pop-up alert notifies the user shortly before a session ends, improving usability and reducing the risk of missing transitions. This alert system integrates safely with the event loop while maintaining application stability.
+
+Special care was taken to handle timer safety and reset behavior. Active timers are tracked using stored callback IDs, allowing the reset function to properly cancel scheduled events and prevent overlapping timers or background execution. Resetting the application clears all state, including session count, progress indicators, and countdown display, ensuring predictable behavior.
+
+The user interface emphasizes simplicity and clarity, with consistent color themes, centered layout, and minimal visual clutter. Overall, this project demonstrates strong understanding of GUI development, asynchronous control flow, safe timer management, and clean logical separation within a Python desktop application.
